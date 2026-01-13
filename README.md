@@ -18,7 +18,7 @@ This repository is dedicated to my progress in mastering SQL and Database Manage
 ## 📚 Syllabus & Progress
 
 ### Section 1: Data Retrieval Basics
-* [x] **[Basic SELECT](./01-basics/01_select_basics.sql)** — Retrieving data from tables, using aliases (`AS`), and simple arithmetic operations.
+* [x] **[Basic SELECT](./01_select_basics.sql)** — Retrieving data from tables, using aliases (`AS`), and simple arithmetic operations.
 * [ ] **Filtering & Sorting** — `WHERE` clause, `ORDER BY`, `LIMIT`.
 * [ ] **Functions** — String functions, Numeric functions, and Date/Time handling.
 
