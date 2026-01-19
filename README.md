@@ -19,7 +19,8 @@ This repository is dedicated to my progress in mastering SQL and Database Manage
 
 ### Section 1: Data Retrieval Basics
 * [x] **[Basic SELECT](./01_select_basics.sql)** — Retrieving data from tables, using aliases (`AS`), and simple arithmetic operations.
-* [ ] **Filtering & Sorting** — `WHERE` clause, `ORDER BY`, `LIMIT`.
+* [x] **[Filtering](./02_filtering_and_logics.sql)** — `WHERE` clause.
+* [x] **[Sorting](./03_aggregations_and_grouping.sql)**— `ORDER BY`, `LIMIT`, `GROUP BY`, `HAVING`.
 * [ ] **Functions** — String functions, Numeric functions, and Date/Time handling.
 
 ### Section 2: Advanced SQL
