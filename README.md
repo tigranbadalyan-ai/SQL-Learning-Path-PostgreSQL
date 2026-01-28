@@ -22,6 +22,7 @@ This repository is dedicated to my progress in mastering SQL and Database Manage
 * [x] **[Filtering](./02_filtering_and_logics.sql)** — `WHERE` clause.
 * [x] **[Sorting](./03_aggregations_and_grouping.sql)**— `ORDER BY`, `LIMIT`.
 * [x] **[Test and comprehensive_practice](./04_comprehensive_practice.sql)**
+* [x] **[Scalar Functions](./05_scalar_functions_and_cleaning.sql)** — String (CONCAT, SUBSTRING), Numeric (ROUND, FLOOR), and COALESCE.
 * [ ] **Functions** — String functions, Numeric functions, and Date/Time handling.
 
 ### Section 2: Advanced SQL
