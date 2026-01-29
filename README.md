@@ -17,20 +17,21 @@ This repository is dedicated to my progress in mastering SQL and Database Manage
 
 ## 📚 Syllabus & Progress
 
-### Section 1: Data Retrieval Basics
-* [x] **[Basic SELECT](./01_select_basics.sql)** — Retrieving data from tables, using aliases (`AS`), and simple arithmetic operations.
-* [x] **[Filtering](./02_filtering_and_logics.sql)** — `WHERE` clause.
-* [x] **[Sorting](./03_aggregations_and_grouping.sql)**— `ORDER BY`, `LIMIT`.
-* [x] **[Test and comprehensive_practice](./04_comprehensive_practice.sql)**
-* [x] **[Scalar Functions](./05_scalar_functions_and_cleaning.sql)** — String (CONCAT, SUBSTRING), Numeric (ROUND, FLOOR), and COALESCE.
-* [x] **[Date & Time](./06_date_time_functions.sql)** — EXTRACT, TO_CHAR, and Date Arithmetic.
-* [ ] **Functions** — String functions, Numeric functions, and Date/Time handling.
+### Section 1: SQL Fundamentals
+* [x] **[Basic SELECT](./01-basics/01_select_basics.sql)** — Data retrieval, aliases (`AS`), and simple arithmetic.
+* [x] **[Filtering & Logic](./01-basics/02_filtering_and_logics.sql)** — `WHERE` clause, logical operators, and `NULL` handling.
+* [x] **[Aggregations & Grouping](./01-basics/03_aggregations_and_grouping.sql)** — `GROUP BY`, `HAVING`, and aggregate functions (`SUM`, `AVG`, `COUNT`).
+* [x] **[Comprehensive Practice](./01-basics/04_comprehensive_practice.sql)** — Mid-course review and testing.
 
-### Section 2: Advanced SQL
-* [ ] **Joins** — INNER, LEFT, RIGHT, FULL OUTER joins.
-* [ ] **Aggregations** — `GROUP BY`, `HAVING`, and aggregate functions (`SUM`, `AVG`, `COUNT`).
-* [ ] **Subqueries & CTEs** — Writing complex queries using Common Table Expressions.
-* [ ] **Window Functions** — `ROW_NUMBER`, `RANK`, `OVER`.
+### Section 2: Data Transformation & Cleaning
+* [x] **[Scalar Functions](./01-basics/05_scalar_functions_and_cleaning.sql)** — Advanced String (CONCAT, SUBSTRING), Numeric (ROUND, FLOOR), and `COALESCE`.
+* [x] **[Date & Time Manipulation](./01-basics/06_date_time_functions.sql)** — `EXTRACT`, `TO_CHAR`, and Date arithmetic (age calculation).
+
+### Section 3: Advanced Querying
+* [x] **[Joins & Subqueries](./01-basics/07_joins_and_subqueries.sql)** — Multi-table Joins (4+ tables), Subqueries in `WHERE`, and `CASE` logic for business analytics.
+* [ ] **CTEs (Common Table Expressions)** — Using `WITH` clauses for cleaner, modular code.
+* [ ] **Window Functions** — Advanced analytics using `ROW_NUMBER`, `RANK`, and `OVER`.
+* [ ] **DDL & DML** — Creating tables (`CREATE`), updating (`UPDATE`), and deleting (`DELETE`) data.
 
 ---
 
